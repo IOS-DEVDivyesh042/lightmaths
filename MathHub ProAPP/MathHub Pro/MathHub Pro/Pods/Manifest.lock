@@ -1,0 +1,24 @@
+PODS:
+  - BigInt (5.2.0)
+  - IQKeyboardManager (6.5.16)
+  - SideMenu (6.5.0)
+
+DEPENDENCIES:
+  - BigInt
+  - IQKeyboardManager
+  - SideMenu
+
+SPEC REPOS:
+  trunk:
+    - BigInt
+    - IQKeyboardManager
+    - SideMenu
+
+SPEC CHECKSUMS:
+  BigInt: f668a80089607f521586bbe29513d708491ef2f7
+  IQKeyboardManager: 024b54d7dcb765c5bc99882cb4d5ea24a8cb7c3c
+  SideMenu: f583187d21c5b1dd04c72002be544b555a2627a2
+
+PODFILE CHECKSUM: 4df3dae6e23026385c1fa7058244a3d4e9c4786f
+
+COCOAPODS: 1.13.0

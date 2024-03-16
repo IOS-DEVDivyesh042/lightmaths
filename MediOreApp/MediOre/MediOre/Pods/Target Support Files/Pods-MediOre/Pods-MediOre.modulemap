@@ -1,0 +1,6 @@
+framework module Pods_MediOre {
+  umbrella header "Pods-MediOre-umbrella.h"
+
+  export *
+  module * { export * }
+}

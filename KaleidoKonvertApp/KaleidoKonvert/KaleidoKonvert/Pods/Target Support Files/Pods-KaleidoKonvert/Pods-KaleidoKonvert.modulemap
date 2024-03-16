@@ -1,0 +1,6 @@
+framework module Pods_KaleidoKonvert {
+  umbrella header "Pods-KaleidoKonvert-umbrella.h"
+
+  export *
+  module * { export * }
+}

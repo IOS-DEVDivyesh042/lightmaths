@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-MathHub Pro/Pods-MathHub Pro-frameworks.sh
+${BUILT_PRODUCTS_DIR}/BigInt/BigInt.framework
+${BUILT_PRODUCTS_DIR}/IQKeyboardManager/IQKeyboardManager.framework
+${BUILT_PRODUCTS_DIR}/SideMenu/SideMenu.framework
